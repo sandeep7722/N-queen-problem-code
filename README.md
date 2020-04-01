@@ -1,6 +1,41 @@
 # N-queen-problem-code
 CODE OF N-QUEEN PROBLEM IN C++
 ////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #include<bits/stdc++.h>
 using namespace std;
 bool issafe(int a[][10],int i,int j,int n)
